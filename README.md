@@ -1,8 +1,8 @@
 # Arun Prassanth RB's Portfolio
 Projects I have worked on.
 
-1. Item One A Cooperative Objec
-1. Item Teo dfdg
+####1. Item One A Cooperative Objec
+####1. Item Teo dfdg
 
 ##[1. A Cooperative Object-Transport System With Behavior-Based Robots](https://github.com/arunrb/A-Cooperative-Object-Transport-System-With-Behavior-Based-Robots)
 Master's thesis
